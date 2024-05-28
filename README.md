@@ -1,6 +1,5 @@
 # Emergency Response Mobile App for Vancouver
 
-**Presented by:** JVM Consulting  
 **Date:** May 24, 2024  
 **Prepared for:** City of Vancouver
 
