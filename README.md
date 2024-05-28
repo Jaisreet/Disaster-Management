@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the project files and documentation for an innovative mobile application designed to enhance the City of Vancouver's emergency response capabilities. The application is structured around the key phases of the emergency management lifecycle: Mitigation, Response, and Recovery. This project aims to streamline resource allocation, improve volunteer management, and optimize disaster preparedness through advanced data analysis and user-friendly features.
+This repository contains the project files and documentation for an innovative mobile application designed to enhance the City of Vancouver's emergency response capabilities. The application, which secured 3rd position out of 25 teams, is structured around the key phases of the emergency management lifecycle: Mitigation, Response, and Recovery. This project aims to streamline resource allocation, improve volunteer management, and optimize disaster preparedness through advanced data analysis and user-friendly features.
 
 ## Key Features
 
